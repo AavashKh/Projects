@@ -1,0 +1,13 @@
+BULLETPOINTS FOR THIS PROJECT
+
+1.  Happy Birthday Saisa Didi
+2.  May all your duas come true
+3.  Say something about how you are lucky to get such a cool brother
+
+CSS FORMAT
+
+1.  Needs to have an arabic design
+2.  Keep it simple (cause your don't know advanced coding :P)
+3.  Dark theme
+4.  Some pictures together
+5.  Preferably interactive UX design (For iPhone -- 2778 x 1284 and macbook air -- 2560 x 1600)
